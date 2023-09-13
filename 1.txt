@@ -1,1 +1,2 @@
- git config --global user.name "vinod"
+ git config --global user.name "vinod"this is commit 2
+this is coomit 3
